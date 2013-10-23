@@ -1,10 +1,9 @@
 
+# Simple Framework
 
-# small bootstrap for your next PHP application.
+PHP framework working with PHP5.3 who wants to be simple.
 
-SimpleFramework is a web framework working with PHP5.3.
-
-SimpleFramework want to be simple, only the minimum viable feature to make a framework.
+It only contains minimum viable features to make a web framework.
 
 ## Installation
 
@@ -15,7 +14,7 @@ $ mkdir simple-framework
 $ cd simple-framework
 
 $ git init
-$ git submodule add git@github.com:gordonslondon/SimpleFramework.git
+$ git submodule add git@github.com:julesbou/SimpleFramework.git
 
 $ cp SimpleFramework/Kernel.php.sample Kernel.php
 $ mkdir templates
